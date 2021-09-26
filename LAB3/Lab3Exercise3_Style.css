@@ -3,7 +3,6 @@ font-family: "arial",sansserif;
 text-transform: uppercase;
 }
 #image {
-  border: 1px
-  border-style: solid
+  border: 1px solid
   border-color: black;
 }
