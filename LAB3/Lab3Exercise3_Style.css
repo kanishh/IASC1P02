@@ -2,3 +2,6 @@
 font-family: "arial",sansserif;
 text-transform: uppercase;
 }
+img {
+  border:1px solid black
+}
