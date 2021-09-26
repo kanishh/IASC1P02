@@ -1,0 +1,10 @@
+body{
+	color:red;
+}
+.Province {
+  color:green;
+  font-style:italic;
+  font-size: 30px;
+  display: inline;
+
+}
