@@ -5,6 +5,6 @@ body{
   color:green;
   font-style:italic;
   font-size: 30px;
-  font-display: inline;
+  display: inline;
 
 }
