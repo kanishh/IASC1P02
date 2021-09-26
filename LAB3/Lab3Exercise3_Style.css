@@ -4,6 +4,6 @@ text-transform: uppercase;
 }
 #image {
   border: 1px
-  border-style: groove
+  border-style: solid
   border-color: black;
 }
