@@ -1,6 +1,6 @@
 
 
-.dotbox {
+.dotBox {
   border: purple 3px;
   border-style: dotted;
   margin:5px;
@@ -8,11 +8,11 @@
   text-align: center;
 }
 
-#inside {
+#insideText {
 text-align: center;
 }
 
-#tinytext {
+#greenText {
   color:darkgreen;
   text-align: center;
   font-size: 8px;
@@ -20,25 +20,25 @@ text-align: center;
 }
 
 
-#moretext {
+#outsideText {
   color:orange;
   font-size: 21px;
 }
 
-#ss {
+#superSript {
   color: red;
   font-size: 18px;
   vertical-align: super;
 }
 
-#righttext {
+#rightText {
   color: purple;
   text-align: right;
   font-size: 6px;
   padding-top: 10px;
 
 }
-#yellowtxt {
+#yellowText {
   color: yellow;
   font-style: italic;
   font-size: 6px;
