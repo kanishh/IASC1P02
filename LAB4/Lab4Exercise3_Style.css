@@ -1,28 +1,28 @@
-.bigbox{
+.greenBox{
 background-color: green;
 }
 
-#box{
+#dottedBox{
   border: black 3px;
   border-style: dotted;
   border-width: thick;
   margin-left: 15px;
 }
-#orange{
+#orangeText{
   font-size: 16px;
   color:red;
   padding-top: 15px;
   padding-bottom: 5px;
 }
 
-#green{
+#greenInsideText{
   font-size: 16px;
   color:darkgreen;
   padding-top: 5px;
   padding-bottom: 15px;
 }
 
-#text {
+#purpleText {
   color:purple;
   font-size: 16px;
 }
