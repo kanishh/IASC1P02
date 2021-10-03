@@ -1,12 +1,48 @@
-#lefttext {
-  color: purple;
-  text-align: right;
 
+
+.dotbox {
+  border: purple 3px;
+  border-style: dotted;
+  margin:5px;
+  align-content: bottom;
+  text-align: center;
+  
 
 }
 
+#inside {
+text-align: center;
+
+
+
+}
+#tinytext {
+  color:darkgreen;
+  text-align: center;
+  font-size: 8px;
+
+}
+
+#moretext {
+  color:orange;
+  font-size: 18px;
+}
+
+#ss {
+  color: red;
+  font-size: 18px;
+  vertical-align: super;
+}
+
+#righttext {
+  color: purple;
+  text-align: right;
+
+}
 #yellowtxt {
   color: yellow;
   font-style: italic;
+  font-size: 6px;
   text-transform: uppercase;
+
 }
