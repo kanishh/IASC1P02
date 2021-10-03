@@ -19,11 +19,12 @@ body{
 
 #boomer {
   align-items: left;
-  padding: 5px;
+  padding: 10px;
   border: white 1px;
   border-style: dashed;
   height: auto;
   width: 100%
+
 
 
 }
