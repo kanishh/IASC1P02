@@ -1,0 +1,12 @@
+#lefttext {
+  color: purple;
+  text-align: right;
+
+
+}
+
+#yellowtxt {
+  color: yellow;
+  font-style: italic;
+  text-transform: uppercase;
+}
