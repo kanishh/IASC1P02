@@ -20,7 +20,7 @@ body{
 #boomer {
   align-items: left;
   padding: 10px;
-  border: white 1px;
+  border: pink 1px;
   border-style: dashed;
   height: 300px;
   width: auto;
