@@ -3,10 +3,9 @@ body{
 }
 
 .largebox {
-  margin-top: 20px;
+  margin-top: 10%;
 	margin-right: 10%;
-	margin-bottom: 20px;
-	margin-left: 10%;
+
 
   border: black 3px;
   border-style: solid;
