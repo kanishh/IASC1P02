@@ -5,6 +5,8 @@ background-color: green;
 #box{
   border: black 5px;
   border-style: dotted;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 #orange{
   font-size: 14px;
