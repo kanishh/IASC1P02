@@ -1,0 +1,29 @@
+.bigbox{
+  color=green;
+
+}
+
+#box{
+  border: black 12px;
+  border-style: dotted;
+}
+#orange{
+  font-size: 14px;
+  color:red;
+  padding-top: 15px;
+  padding-bottom: 5px;
+
+}
+
+#green{
+  font-size: 14px;
+  color:darkgreen;
+  padding-top: 5px;
+  padding-bottom: 15px;
+
+}
+
+#text {
+  color=purple;
+  font-size: 14px;
+}
