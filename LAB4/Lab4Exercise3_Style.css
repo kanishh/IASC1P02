@@ -6,8 +6,7 @@ background-color: green;
   border: black 3px;
   border-style: dotted;
   border-width: thick;
-  padding-left: 25px;
-  padding-right: 25px;
+  margin-left: 15px;
 }
 #orange{
   font-size: 16px;
