@@ -2,7 +2,7 @@ body{
 	background-color:blue;
 }
 
-.largeBox {
+.largebox {
   margin-top: 50px;
 	margin-left: 50px;
   margin-right: 50px;
@@ -11,13 +11,13 @@ body{
   border-style: solid;
 }
 
-#smallBox {
+#smallbox {
   border: green 2px;
   margin: 20px;
   border-style: dashed;
 }
 
-#boomerPicture {
+#boomer {
   align-items: left;
   padding: 10px;
   border: pink 1px;
@@ -28,7 +28,7 @@ body{
 
 
 }
-#pinkText {
+#text {
   color: fuchsia;
   font-size: 18px;
   font-family: Arial, Helvetica, sans-serif;
