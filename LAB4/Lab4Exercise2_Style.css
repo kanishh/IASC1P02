@@ -4,7 +4,7 @@
   border: purple 3px;
   border-style: dotted;
   margin:5px;
-  align-content: bottom;
+  padding-top: 100px;
   text-align: center;
 }
 
@@ -33,6 +33,7 @@ text-align: center;
 #righttext {
   color: purple;
   text-align: right;
+  font-size: 6px;
 
 }
 #yellowtxt {
