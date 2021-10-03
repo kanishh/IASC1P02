@@ -5,8 +5,9 @@ background-color: green;
 #box{
   border: black 3px;
   border-style: dotted;
-  padding-left: 15px;
-  padding-right: 15px;
+  border-width: thick;
+  padding-left: 25px;
+  padding-right: 25px;
 }
 #orange{
   font-size: 16px;
@@ -24,5 +25,5 @@ background-color: green;
 
 #text {
   color=purple;
-  font-size: 14px;
+  font-size: 16px;
 }
