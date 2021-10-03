@@ -5,7 +5,7 @@ body{
 .largebox {
   margin-top: 10%;
 	margin-left: 50px;
-
+  margin-right: 50px;
 
   border: black 3px;
   border-style: solid;
@@ -22,7 +22,7 @@ body{
   padding: 10px;
   border: white 1px;
   border-style: dashed;
-  height: 170px;
+  height: 240px;
   width: auto;
 
 
@@ -30,7 +30,8 @@ body{
 }
 #text {
   color: fuchsia;
+  font-size: 18px;
   font-family: arial sans-serif;
   padding-left: 10px;
-  font-size: 14px;
+
 }
