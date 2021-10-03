@@ -1,10 +1,9 @@
 .bigbox{
-  color=green;
-
+background-color: green;
 }
 
 #box{
-  border: black 12px;
+  border: black 5px;
   border-style: dotted;
 }
 #orange{
@@ -12,7 +11,6 @@
   color:red;
   padding-top: 15px;
   padding-bottom: 5px;
-
 }
 
 #green{
@@ -20,7 +18,6 @@
   color:darkgreen;
   padding-top: 5px;
   padding-bottom: 15px;
-
 }
 
 #text {
