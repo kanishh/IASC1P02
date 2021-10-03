@@ -6,22 +6,18 @@
   margin:5px;
   align-content: bottom;
   text-align: center;
-  
-
 }
 
 #inside {
 text-align: center;
-
-
-
 }
+
 #tinytext {
   color:darkgreen;
   text-align: center;
   font-size: 8px;
-
 }
+
 
 #moretext {
   color:orange;
