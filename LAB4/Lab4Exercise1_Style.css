@@ -1,3 +1,31 @@
 body{
-	background-color:red;
+	background-color:blue;
+}
+
+.largebox {
+  margin-top: 20px;
+	margin-right: 10%;
+	margin-bottom: 20px;
+	margin-left: 10%;
+
+  border: black 3px;
+  border-style: solid;
+}
+
+#smallbox {
+  border: green 1px;
+  border-style: dashed;
+}
+
+#boomer {
+  align-items: left;
+  padding: 5px;
+  border: white 1px;
+  border-style: dashed;
+
+}
+#text {
+  color: pink;
+  font-family: "arial" sans-serif;
+  font-size: 14px;
 }
