@@ -13,7 +13,8 @@ body{
 }
 
 #smallbox {
-  border: green 1px;
+  border: green 2px;
+  margin: 30px;
   border-style: dashed;
 }
 
@@ -25,7 +26,7 @@ body{
 
 }
 #text {
-  color: pink;
+  color: fuchsia;
   font-family: "arial" sans-serif;
   font-size: 14px;
 }
