@@ -1,6 +1,7 @@
 #largeWrapper{
   background-color: green;
   margin:auto;
+  z-index: 1;
 }
 
 #smallWrapper{
@@ -8,6 +9,7 @@
   height:1000px;
   width:1000px;
   margin:auto;
+  position: relative;
 
 
 }
@@ -19,7 +21,7 @@
   padding-top: 2px;
   margin:8px;
   float:left;
-  position: relative;
+
 
 }
 
@@ -30,7 +32,7 @@
     padding-top: 2px;
     float:right;
     margin-top: 8px;
-    position: relative;
+
 
 }
 
@@ -42,6 +44,6 @@
   text-align: left;
   clear: both;
   margin: auto;
-  position: relative;
+
 
 }
