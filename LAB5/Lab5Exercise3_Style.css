@@ -1,4 +1,45 @@
 #largeWrapper{
   background-color: green;
-  margin:-20px auto 0 auto;
+  margin:auto;
+}
+
+#smallWrapper{
+  align:center;
+  height:1000px;
+  width:1000px;
+  margin:auto;
+
+
+}
+
+#blueBox{
+  background-color: blue;
+  width: 280px;
+  height: 280px;
+  padding-top: 2px;
+  margin:8px;
+  float:left;
+
+}
+
+#redBox{
+    background-color: red;
+    width: 280px;
+    height: 280px;
+    padding-top: 2px;
+    float:right;
+    margin-top: 8px;
+
+
+}
+
+
+#yellowBox{
+  background-color: yellow;
+  width: 280px;
+  height: 280px;
+  text-align: left;
+  clear: both;
+  margin: auto;
+
 }
