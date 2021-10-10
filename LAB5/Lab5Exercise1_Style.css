@@ -1,0 +1,55 @@
+body{
+	background-color:green;
+
+}
+
+h2{
+	border: 0 0;
+}
+#wrapper{
+	Width: 750px;
+	margin:0 auto;
+
+}
+
+#topText{
+	background-color: red;
+	padding-bottom: 15px;
+	text-align: center;
+
+}
+
+#leftBody{
+	float: left;
+	background-color: lightpink;
+	padding-bottom: 15px;
+	width:250px;
+}
+
+
+#rightBody{
+	float: right;
+	width:500px;
+	padding-bottom: 15px;
+	background-color: orange;
+
+
+}
+
+#middleText{
+	background-color: blue;
+	padding-bottom: 500px;
+	clear: both;
+	margin-bottom: 0;
+
+}
+
+#footerText{
+	background-color: yellow;
+	padding-bottom: 0px;
+	margin: 0;
+	border: 0;
+	text-align: left;
+	height
+
+}
