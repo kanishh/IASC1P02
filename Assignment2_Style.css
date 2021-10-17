@@ -1,0 +1,78 @@
+* {
+    margin-top: 0;
+  }
+
+body{
+  background-color: mintcream;
+}
+
+h1{
+  color: darkgreen;
+  position: fixed;
+  background-color: palegreen;
+  font-size: 40px;
+  font-family: "Lucida Handwriting", Cursive;
+  text-align: center;
+  top: 0px;
+  left: 0px;
+  padding:0px;
+  width: 100%;
+  height: 60px;
+  z-index: 100;
+}
+
+#topmostItem{
+  padding-top: 60px;
+}
+
+.p1, .p2, .p3{
+  font-family: Helvetica, sans-serif;
+  font-size: 16px;
+  color: darkolivegreen;
+}
+
+#firstParagraph{
+  z-index: 50;
+  position: absolute;
+  top: 130px;
+}
+
+#firstList{
+  top: 150px;
+  margin-top: 180px;
+  z-index: 10;
+  margin-bottom: 10px;
+}
+
+.topImage, .secondImage, .thirdImage{
+  position: relative;
+  border-style: solid;
+  border-color: darkolivegreen;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.descriptionText{
+  text-transform: uppercase;
+  text-align: center;
+}
+div h3 {
+  font-style: italic;
+}
+.h2{
+  color: green;
+  font-family: "Didot", serif	;
+  font-size: 23px;
+  position: relative;
+  top: 15px;
+
+}
+.allLists{
+  border-style: solid;
+  border-color: darkgreen;
+  margin-top: 10px;
+  padding: 10px;
+  background-color: white;
+  content: inherit;
+}
