@@ -1,0 +1,208 @@
+* {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+
+
+body{
+	background-color:seashell;
+
+}
+
+h1{
+  text-align: center;
+  font-family: "Copperplate", Times, fantasy;
+  position: absolute;
+  padding-left: 450px;
+  font-size: 70px;
+
+}
+
+#logoBox{
+  height:170px;
+  width: 170px;
+  background-color: saddlebrown;
+  position: absolute;
+  margin-left: 30px;
+
+}
+
+#telePhone{
+  padding-top: 175px;
+  padding-left: 48px;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: "Georgia", Times, serif;
+}
+
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  overflow: hidden;
+  background-color: Sienna;
+}
+
+li{
+  float: right;
+  display: inline;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 60px;
+  text-decoration: none;
+  font-family: "Georgia", Times, serif;
+}
+
+li a:hover {
+  background-color: saddlebrown;
+}
+
+#wrapperBig{
+  margin:11px;
+  font-family: "Georgia", Times, serif;
+  font-size: 16px;
+}
+
+#MissionBox{
+  border-style: solid;
+  border-color: Sienna;
+  text-align: center;
+  font-size: 17px;
+  background-color: white;
+}
+
+#MissionS{
+  text-align: center;
+  text-decoration: underline;
+  font-size: 25px;
+  font-style: italic;
+  font-weight: bold;
+
+
+}
+
+.contentBoxes{
+align-items: center;
+
+}
+
+
+#smallBox{
+  width: 85%;
+  height:60%;
+  margin: auto;
+  background-color: peru;
+}
+.featuredBoxe1, .featuredBoxe2,.featuredBoxe3{
+  width: 450px;
+  height: 400px;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  background-color: white;
+  display: inline-block;
+  text-align: center;
+  font-size: 25px;
+  text-decoration: underline;
+  border-style: solid;
+  border-color: Sienna;
+
+}
+
+.featuredBoxe2{
+  margin-left: 22px;
+}
+
+.featuredBoxe3{
+  float:right;
+}
+
+.featuredBoxe4,.featuredBoxe5,.featuredBoxe6{
+  margin-top: 4px;
+  margin-bottom: 4px;
+  padding-top: 50px;
+  display: inline-block;
+  text-align: center;
+  width: 450px;
+  height: 150px;
+  border-style: solid;
+  border-color: Sienna;
+  font-size: 25px;
+  background-color: white;
+}
+
+#FeaturedServices{
+  background-color: peru;
+  height: 100px;
+  text-align: center;
+  font-size: 30px;
+  padding-top: 3px;
+  padding-bottom: 7px;
+  font-family: "Georgia", Times, serif;
+  border-style: solid;
+  border-color: Sienna;
+
+
+}
+
+#wrapperSmol{
+  margin:11px;
+  font-family: "Georgia", Times, serif;
+  font-size: 16px;
+}
+
+
+.featuredBoxe6{
+  float:right;
+}
+
+.featuredBoxe5{
+margin-left: 22px;
+
+}
+
+#bottonId{
+    margin-top: 40px;
+    font-size: 18px;
+}
+#bottonId2{
+  margin-top: 10px;
+  font-size: 15px;
+}
+
+.navbar{
+  list-style-type: none;
+  padding: 0;
+  overflow: hidden;
+  background-color: Sienna;
+  width: 100%
+}
+
+.navbar a{
+  float:left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 79px;
+  text-decoration: none;
+  font-family: "Georgia", Times, serif;
+  margin-bottom: 0px;
+}
+
+.navbar a:hover {
+  background-color: saddlebrown;
+}
+.footBar{
+  font-family: "Georgia", Times, serif;
+  margin-top: -13px;
+  height: 50px;
+  width: 100%;
+  background-color: linen;
+  display: block;
+  text-align: center;
+
+}
