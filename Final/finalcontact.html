@@ -1,0 +1,142 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+	<title>St.Catharines Stargazing Guide - Contact Me</title>
+	<link href="finalcontact.css" rel="stylesheet" type="text/css" />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+
+</head>
+
+<body>
+
+<h1> <a href="finalhome.html">St. Catharines Stargazing Guide </a> </h1>
+
+<div class="javaBar">
+	<div id ="clock" onload="currentTime()"></div>
+	<div id="statusBar">
+	<p> Current: <span id="tempRN"> </span>°C <span class="spaceBreak"> </span> Feels Like: <span id="feelsLike"></span>°C <span class="spaceBreak"></span>Staus: <span id="weatherStatus"> </span> </p>
+</div>
+</div >
+
+
+<ul>
+<li><a href="finalcontact.html">Contact Me</a></li>
+<li><a href="finalaboutme.html">About Me</a></li>
+<li><a href="finalnight.html">What to See In The Night Sky </a></li>
+</ul>
+
+
+<div id="wrapperContact">
+
+	<h2> Contact Me </h2>
+	<!--- Contact Me form was obtained and modified from https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_contact_form on December 10th -->
+
+
+	<div class="containerContact">
+	  <form action="action_page.php">
+	    <label for="fname">First Name</label>
+				<br/>
+	    <input type="text" id="fname" name="firstname" placeholder="Your name.."/>
+		<br/>
+	    <label for="lname">Last Name</label>
+
+				<br/>
+	    <input type="text" id="lname" name="lastname" placeholder="Your last name.."/>
+				<br/>
+
+	    <label for="Province">Province</label>
+		<br/>
+	    <select id="province" name="province">
+
+
+
+	      <option value="Alberta">Alberta</option>
+	      <option value="British Columbia">British Columbia</option>
+	      <option value="Manitoba">Manitoba</option>
+	      <option value="New Brunswick">New Brunswick</option>
+	      <option value="Newfoundland and Labrador">Newfoundland and Labrador</option>
+	      <option value="Northwest Territories">Northwest Territories</option>
+	      <option value="Nova Scotia">Nova Scotia</option>
+	      <option value="Nunavut">Nunavut</option>
+	      <option value="Ontario">Ontario</option>
+	      <option value="Prince Edward Island">Prince Edward Island</option>
+	      <option value="Quebec">Quebec</option>
+	      <option value="Saskatchewan">Saskatchewan</option>
+	      <option value="Yukon">Yukon</option>
+	    </select>
+
+		<br/>
+
+	    <label for="subject">Subject</label>
+		<br/>
+
+	    <textarea id="subject" name="subject" placeholder="Write something.."></textarea>
+
+	    <input type="submit" value="Submit"/>
+	  </form>
+	</div>
+
+	</div>
+
+
+	<div id="wrapperFooter1">
+	<!--- Newsletter form was taken from https://www.w3schools.com/howto/howto_css_newsletter.asp on December 5th, 2021 -->
+
+		<form action="action_page.php">
+		  <div class="container">
+		    <h4>Subscribe to My Newsletter</h4>
+		  </div>
+
+		  <div class="container">
+		    <input type="text" placeholder="Name" name="name"/>
+		    <input type="text" placeholder="Email address" name="mail"/>
+		    <label>
+				<br/>
+		      <input type="checkbox" checked="checked" name="subscribe"/> I Agree to Receive Monthly Emails
+		    </label>
+		  </div>
+
+		  <div class="container">
+		    <input type="submit" value="Subscribe"/>
+		  </div>
+		</form>
+	</div>
+
+	<div class="rightWrapper">
+	<div id="footBar">
+
+
+	<!--- Social media buttons obtained from https://www.w3schools.com/howto/howto_css_social_media_buttons.asp on December 10th 2021 -->
+
+
+	<p class="p2"> Follow Me On: </p>
+	<a href="https://www.facebook.com" class="fa fa-facebook"></a>
+
+	<a href="https://www.twitter.com" class="fa fa-twitter"></a>
+
+	<a href="https://www.instagram.com" class="fa fa-instagram"></a>
+
+	</div>
+
+
+	<div id="wrapperFooter2">
+	<p class="p2"> References </p>
+	<p class="p3"> Wikipedia </p>
+	<p class="p3"> Skyguide App </p>
+	</div>
+
+
+
+	</div>
+
+
+	<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+	<script type="text/javascript" src="scripts1b.js"></script>
+
+
+	</body>
+
+	</html>
