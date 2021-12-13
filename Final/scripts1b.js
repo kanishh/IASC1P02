@@ -27,7 +27,7 @@ function currentTime() {
 }
 
 currentTime();
-// API was modified by combining information from two tutorials https://www.youtube.com/watch?v=uxf0--uiX0I&ab_channel=TheCodingTrain and https://www.youtube.com/watch?v=ecT42O6I_WI&ab_channel=TheCodingTrain.
+// API was modified by combining information from two tutorials by The Coding Train youtube channel: Obtained from https://www.youtube.com/watch?v=uxf0--uiX0I&ab_channel=TheCodingTrain and https://www.youtube.com/watch?v=ecT42O6I_WI&ab_channel=TheCodingTrain.
 const api_url = 'https://api.openweathermap.org/data/2.5/weather?q=St.%20Catharines&appid=65e9992cafbc4202e34b447831453d67&units=metric'
 async function getTemp() {
   const response = await fetch (api_url);
